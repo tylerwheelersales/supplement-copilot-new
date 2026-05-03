@@ -1,0 +1,21 @@
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Expo / React Native
+frontend/.expo/
+frontend/dist/
+frontend/web-build/
+
+# OS
+.DS_Store
+**/.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
